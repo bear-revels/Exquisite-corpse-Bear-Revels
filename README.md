@@ -6,3 +6,4 @@ This exercise has been quite **challenging** for me.
 
 # Guest list
 Signed by Gerrit! :D
+Signed by Sem
