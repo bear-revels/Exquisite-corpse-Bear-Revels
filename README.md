@@ -6,6 +6,9 @@ This exercise has been quite **challenging** for me.
 
 # Guest list
 Signed by Gerrit! :D
+gerrit
+Signed via the branch
+
 Signed by Sem
 Signed by Nathalie
 Signed by Em
@@ -16,3 +19,4 @@ Signed by Em
 
 Happy conflict solving! :D
 
+main
